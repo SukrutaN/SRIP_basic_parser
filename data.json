@@ -1,0 +1,558 @@
+[
+  {
+    "title": "1)\tDesign Optimization of Cooling Channels in Friction Stir Channeled Liquid Cold Plates through Heat Transfer Simulation",
+    "description": "The increasing thermal loads in modern electronic devices and battery systems demand efficient and compact cooling solutions to avoid overheating and increase the performance & lifecycle of the systems. Liquid Cold plates have emerged as a promising technology for thermal management of these devices. In view of this, Friction Stir Channeling (FSC), a friction stir welding derived technique, manufactures a leak proof integrated channel with higher thermal cooling efficiency, compared to conventional techniques such as liquid brazing.\nThe project focuses on the optimization of the integrated channel path and geometry manufactured through FSC using a developed heat transfer model. The modelling work will be performed in COMSOL Multiphysics. The primary objective is to achieve the desired heat transfer efficiency by studying temperature distribution, pressure drop, and overall thermal resistance. Based on the simulation results, the design of the internal channel such as channel path and geometry will be optimized to achieve the required thermal performance as specified by the industry."
+  },
+  {
+    "title": "2)\tOptimization of the Model Parameters for the Heat Transfer and Material Flow model for Additive Friction Stir Deposition of Copper",
+    "description": "Additive Friction Stir Deposition (AFSD) is an advanced solid-state additive manufacturing technique based on the principles of friction stir welding. A rotating hollow non-consumable tool is used to generate the heat through the friction and plastic deformation. A feed stock in the form of rod is supplied through the hollow tool portion which plasticizes due to the frictional heat generated between the tool-substrate interface and gets deposited on the substrate. The Finite volume method-based heat transfer and material flow model framework for the AFSD is developed. The project aims to optimize the model parameters and analyse their effects on the output for the AFSD of copper. The predicted results will be visualized using dedicated plotting software for further analysis. The predicted thermal cycle from the model will be validated using experimental thermal cycle data from existing literature."
+  },
+  {
+    "title": "A Priori Assessment of LES–PCA Modeling for Hydrogen-Enriched Jet-in-Crossflow Flames Using DNS Data",
+    "description": "This project conducts an a priori assessment of a Principal Component Analysis (PCA)-based reduced-order modeling framework for hydrogen-enriched jet-in-crossflow flames using existing DNS datasets. The study focuses on extracting dominant thermo-chemical features, applying LES filtering to emulate coarse-resolution simulations, and evaluating how accurately a truncated PCA representation reconstructs key combustion quantities such as temperature, species mass fractions, and heat release rate. Through this work, the student will gain hands-on experience in handling large scientific datasets, applying dimensionality reduction techniques to complex physical systems, understanding turbulence–combustion interactions and LES scale separation, and developing reproducible scientific workflows."
+  },
+  {
+    "title": "Accelerating Combustion CFD Using Neural ODEs Based Chemical Kinetics Models",
+    "description": "This project involves coupling a Neural ODEs Based chemical kinetics model with a combustion CFD solver (OpenFOAM). In conventional combustion CFD, chemical source terms are computed using detailed reaction mechanisms, which makes simulations computationally expensive. The intern will replace the detailed chemistry calculations with the data driven model and ensure the coupled solver remains stable, accurate, and physically consistent. The implementation will be tested on benchmark cases such as a 1D/2D deflageration laminar flames, and results will be validated by comparing laminar flame speed, temperature profiles, and major species distributions against a detailed chemistry."
+  },
+  {
+    "title": "AI Accelerator design for RISC-V based MCU",
+    "description": "We are currently in the process of designing a RISC-V clone of the Atmega328p microcontroller and testing it against an FPGA board.\n\nThis project will involve adding an ML accelerator unit to the microcontroller that will allow for faster and low power edge inference."
+  },
+  {
+    "title": "AI for Health",
+    "description": "https://docs.google.com/document/d/1om5Gc0HPjujVUnSJS4oBQO_x4FHMlNiwhRJT5blyuRI/edit?usp=sharing"
+  },
+  {
+    "title": "AI for Sustainability",
+    "description": "https://docs.google.com/document/d/1t6hjOQrcJ6uiHYggbGunNOq_D3Ewi0zlwAReJjE2XVg/edit?usp=sharing"
+  },
+  {
+    "title": "AI-Driven Diffusion Modeling for Flow-Field Reconstruction in Couette Systems",
+    "description": "The work focuses on Couette flow configurations spanning a large and complex parameter space, supported by an extensive database generated from high-fidelity CFD simulations. to develop and deploy diffusion-based generative models for efficient reconstruction and representation of flow-field data. By enabling accurate recovery of complex flow structures across varying operating conditions, this study seeks to establish diffusion models as transformative tools for fluid dynamics research, with applications ranging from super-resolution and reduced-order modeling to  data reconstruction and data-driven discovery. Once model is developed, this can be extended to experimental data too."
+  },
+  {
+    "title": "Algorithms for Group Theoretic Problems",
+    "description": "Group theory has played a central role in understanding the complexity of various problems, such as the graph isomorphism problem and problems arising in number theory. In quantum computation, a majority of the problems for which quantum computers have been shown to exhibit exponential speed-ups over classical algorithms are, in fact, group-theoretic problems.\n\nIn this project, we plan to study the complexity of group-theoretic problems related to group representations. More specifically, we aim to design efficient algorithms for computing representations of certain classes of permutation groups."
+  },
+  {
+    "title": "Analysing economic relationships using large scale household surveys",
+    "description": "The project will require working with large datasets, such as IHDS or NFHS or other similar surveys, to analyse economic relationships. The candidate must be well-versed with econometric techniques, and with statistical software tools like Stata or R. Candidates may also be required to carry out literature reviews on topics related to development economics. Candidates may be asked to go on field, if required, for necessary data collection. Application of candidates with strong econometric analysis and data processing skills will be favoured and considered for further processing. Candidate must share examples of their related skills while applying."
+  },
+  {
+    "title": "Asymmetric Organocatalysis",
+    "description": ""
+  },
+  {
+    "title": "Automated Gait and Posture Analysis",
+    "description": "In this one is expected to work with various sensors to quantify and analyze one's gait and posture"
+  },
+  {
+    "title": "Battery data analytics platform",
+    "description": "This project involves the creation of an end to end platform for collecting, storing and visualizing data from smart batteries, including changing the designs of existing battery management system hardware, if required. The health, sensor data and other information from the battery management system is then sent to a scalable and secure SaaS platform that allows high speed ingestion and management of battery data (anything that a BMS can provide) from a large fleet of IoT batteries, from multiple providers and exposes relevant analytics, management and alerting capabilities to multiple stakeholders in the ecosystem including battery manufacturers and OEMs."
+  },
+  {
+    "title": "Battery Management System",
+    "description": "In this project the interns will build a BMS hardware for a bicycle battery pack from scratch and learn implement EV safety control algorithim under varying drive cycles and ambient conditions."
+  },
+  {
+    "title": "Brain Computer Interface",
+    "description": "Project involves analysis of Brain data from EEG and fNIRS with classical and machine learning approaches"
+  },
+  {
+    "title": "Building Capacity in Sustainable Development: Designing and Implementing Professional Certificate Programmes",
+    "description": "Professional certificate programmes play an important role in building capacity to address emerging sustainability and environmental challenges. This internship will support the development and implementation of certificate courses in areas such as Circular Economy and ESG, Water Governance and Management, and Pollution Prevention and Environmental Compliance.\n\nThe intern will review existing national and international certificate and executive programmes, identify key themes and learning objectives, and contribute to designing a structured course outline, including modules, learning outcomes, and delivery formats. The intern will also help identify potential resource persons, target participants, and programme timelines.\n\nIn addition, the intern may support preparation of course materials, outreach, coordination with experts, and execution of the certificate programme.\n\nThis internship is suitable for students interested in sustainability, environmental management, water resources, pollution control, public policy, or related fields. The internship will provide exposure to curriculum development, sustainability frameworks, and implementation of professional training programmes."
+  },
+  {
+    "title": "Buried Channel Array Transistors (BCAT) for advanced DRAM Node",
+    "description": "BCATs are critical to modern DRAM technologies for mitigating short-channel effects (SCE) and improving off-current performance. The objective of this project is to simulate and optimize BCAT device structures to achieve higher on-current and lower off-current, enabling improved DRAM performance and scalability. A strong foundation in semiconductor device physics and hands-on experience with TCAD simulation tools are required for this project."
+  },
+  {
+    "title": "CFD Analysis of Differentially Rotating Spherical Couette Flows",
+    "description": "Spherical Couette flow, defined as the flow between two concentric spheres with independently rotating inner and outer boundaries. The rotation of both spheres introduces complex shear-driven dynamics, leading to a rich spectrum of flow regimes ranging from laminar axisymmetric states to non-axisymmetric instabilities and turbulence. The simulations solve the incompressible Navier–Stokes equations in spherical geometry, enabling systematic exploration of the effects of Reynolds number and rotation ratios on flow transitions and structure formation. The project is bases developing numerical code based on open source Dedalus. This work also involve mathematical formulation in spherical coordinated and coordinate transformation."
+  },
+  {
+    "title": "CFD modelling of noise barriers",
+    "description": "Urban expansion and increasing traffic density have led to heightened noise pollution, which significantly impacts public health and quality of life. While physical noise barriers are standard mitigation tools, their effectiveness is often compromised by complex atmospheric conditions, varied barrier geometries, and the diffraction of sound waves over the barrier top. Traditional empirical models often fail to account for the intricate interaction between wind turbulence and sound propagation. There is a critical need to develop a high-fidelity computational framework to accurately predict the Insertion Loss (IL)—the reduction in sound pressure level—provided by different barrier designs. This project aims to develop such a framework using the open-source CFD solver, OpenFOAM. Prior knowledge of OpenFOAM is preferred but not necessary. Knowledge of ParaView is useful. Students from Civil or Mechanical/Aerospace Engineering are preferred."
+  },
+  {
+    "title": "Chemical crystallography of small molecules",
+    "description": "Structure determination and intermolecular interaction studies of small molecules via single crystal XRD."
+  },
+  {
+    "title": "ChitraBasha: Building Indic Vision-language Dataset",
+    "description": ""
+  },
+  {
+    "title": "Chloroplast genome assembly of medicinal plants",
+    "description": "This summer internship project focuses on the de novo assembly and annotation of chloroplast genomes from selected medicinal plants, using high-throughput sequencing data. Students will process raw Illumina or Nanopore reads through quality control (FastQC, Trimmomatic), perform chloroplast genome assembly with tools like NOVOPlasty or GetOrganelle, and annotate genes (rRNAs, tRNAs, protein-coding regions) via CpGAVAS2 or GeSeq, followed by comparative analyses to identify variations in inverted repeat regions, simple sequence repeats, and phylogenetically informative markers. The project aims to generate reference cp-genomes for biodiversity assessment, authentication of herbal drugs, and evolutionary studies, contributing to conservation genomics of India's medicinal flora.\nDesired skill sets\n.Basic bioinformatics proficiency \n.Familiarity with NGS data analysis tools (e.g., FastQC, SPAdes, BLAST).\n.Good Molecular biology knowledge (plant genetics, organelle genomes).\n.Data visualization skills (e.g., Circos for genome maps, IQ-TREE for phylogenetics).\n.Willingness to learn assembly pipelines and submit to NCBI GenBank."
+  },
+  {
+    "title": "Comparison theorems in ordinary differential equations",
+    "description": "This project deals with the qualitative questions in ordinary differential equations (ODEs). In this context, Sturm's comparison theorem plays an important role. We study comprehensively the Sturm's comparison theorem, and intend to prove a generalization of it to a pair of nonlinear ODEs."
+  },
+  {
+    "title": "Computational Biomaterials",
+    "description": "The student will use computational tools to understand biomaterial physics"
+  },
+  {
+    "title": "Computational investigation of circadian clock proteins",
+    "description": "The project involves computational investigation of clock proteins including virtual screening and simulations."
+  },
+  {
+    "title": "Creating Digital Photo Archive using an Open-Source software & Curating and Organising Virtual and Physical Exhibition of Archival Materials",
+    "description": "Over a period of last 18 years, the different units of the Institute have accumulated good number of photographs of Institute’s important events, activities, individuals, groups etc.  As these serve as memory of the Institute, some of these photographs need to be archived in a systematic manner for future use. This proposed project will involve the work of identifying, evaluating, and selecting a suitable software for creating a digital archive (prototype) of such. This would also require installing and customizing the software, populating with photographs, and providing access to the same.\nThe second and most important part of the project is, what it takes (covering all aspects) to plan, design and organise a theme based virtual and physical exhibition of all types of archival materials. Selected intern is expected to have the knowledge of the archival materials ( print and digital) and some amount of demonstrated skills and experience of curating and organising a professional exhibition for the archives and museums."
+  },
+  {
+    "title": "Creating district linking data for governance and district data mapping tool",
+    "description": "India governance data is fragmented and stored within states. States over the years redistribute district administration boundaries and with that it also changes the revenue data collection and monitoring. For economists trying to understand the resource management and development indicators across districts, the changed district boundaries and data collection proves to be a challenge for panel data analysis. In this project we attempt to create apportionment of data and linking with the previous district boundaries to map the development, agriculture, and socio-demographic datasets with consistent time series. The time series matching tool developed through the project shall help the state and national government with the digital India initiative and better governance planning and resource allocation."
+  },
+  {
+    "title": "Crypto-Acceleration: Designing Hardware Accelerator for Post Quantum Cryptography",
+    "description": "In this project various lattice based PQC algorithms will be implemented on different hardware platforms including FPGAs. This project requires the students to explore all the existing Lattice based cryptography algorithms and accelerate the most time consuming operations. The work also will explore modeling PQC on hardware accelerator platforms."
+  },
+  {
+    "title": "Data driven dynamical modeling of chiral structure",
+    "description": "​Chiral uni-cells have translation generalized coordinates in addition to rotational degree of freedom. The tangentially connected extensible Kirchhoff rod contributes to the elastic energy of the system. However, an analytical closed form governing equation is seldom realizable since one has to solve the configuration of the rod to obtain the elastic energy at every instant. To this end, we consider numerically generated data to approximate a generalized governing equation applicable over varying energies and possibly correlate with the geometric properties of the ligaments"
+  },
+  {
+    "title": "Deep Image Restoration",
+    "description": "Design and develop modern deep networks for achieving image restoration tasks such as denoising, deblurring, inpainting, and super-resolution. Application domains include space and biomedical."
+  },
+  {
+    "title": "Design and development of a large scale electronic-cooling system",
+    "description": "The large scale electronics in various applications generate a lot of heat and require continuous cooling. A liquid coolant based large scale cooling system is to be designed for such system. The work will involve basic CAD designing, FEM/FVM simulations, and hands-on designing of systems."
+  },
+  {
+    "title": "Design and development of Stress Concentration Factors for Joints in structural members",
+    "description": "SCF is an important estimate, governing the strenght  of different types of joints in maritime steel structures. API codes give emprical equations for various types of joints. This project aims to develop a complete coding in Matlab (at the back end) and any other app such as Visual Basic or Python in the front end. The developed app should help enigneers to estimate the SCF and design teh joints, which  they otherwise do through expensive software."
+  },
+  {
+    "title": "Design and prototyping of Electromagnetic Vibration Energy Harvester",
+    "description": "Goal is to develop a miniaturized micropower electromagnetic vibration energy harvester for self-powered battery-less sensors. First step is design validation by simulation over COMSOL Multiphysics, followed by hardware prototyping, and experimental testing. Familiarity with COMSOL or other FEM tool is required. Past experience with hardware prototyping is preferred."
+  },
+  {
+    "title": "Design and Realization of a Dual-Channel GaN HEMT Based on a Three-Layer Heterostructure for Depletion-Mode Applications",
+    "description": "This project investigates a depletion-mode (normally-on) dual-channel GaN High Electron Mobility Transistor (HEMT) based on a three-layer heterostructure architecture for high- power electronic applications. The proposed structure incorporates two vertically separated two-dimensional electron gas (2DEG) channels formed at engineered\nheterointerfaces, enabling enhanced carrier transport, reduced access resistance, and improved electric-field distribution. The dual-channel configuration facilitates effective current sharing and improved electrostatic control, resulting in higher drain current capability, increased transconductance, and reduced hot-electron effects while\nmaintaining stable D-mode operation. The three-layer heterostructure provides strong carrier confinement and minimizes interaction with buffer-related traps, thereby suppressing current collapse and dynamic on-resistance degradation under high-voltage operation. The study integrates TCAD-based modeling with DC and pulsed I–V characterization to optimize device performance, offering a scalable pathway toward reliable GaN-based power electronic devices."
+  },
+  {
+    "title": "Design and Realization of a E/D-Mode GaN Active-Passivation HEMT (ED-APHEMT) for Power applications",
+    "description": "Conventional depletion-mode GaN HEMTs offer high current density and low on-resistance but require negative gate bias for safe operation, whereas enhancement-mode devices enable fail-safe normally-off operation at the cost of reduced current capability and\nincreased dynamic degradation. Motivated by the need to combine safe gate control with high-performance conduction in a single device platform, this project proposes a novel Enhancement/Depletion-mode (E/D-mode) GaN Active-Passivation High Electron Mobility Transistor (APHEMT) based on engineered heterostructure and gate–passivation\nco-design. The device concept integrates an active passivation layer that electrically interacts with the channel to modulate surface potential and electric-field distribution, enabling controlled E/D-mode operation within a single device architecture. The proposed approach reduces surface trap effects, suppresses current collapse, and improves\ndynamic on-resistance under high-voltage operation. The active passivation layer plays a critical role in mitigating surface-related trapping and enhancing electrostatic control in the gate–drain access region. The study combines TCAD-based electrostatic and transport\nmodeling with DC and pulsed I–V characterization to optimize device performance. The proposed E/D-mode GaN Active-Passivation HEMT offers a scalable pathway toward reliable, high-efficiency GaN power electronic devices."
+  },
+  {
+    "title": "Design of Custom Graphical Elements for Assistive Interfaces",
+    "description": "Overview & Expected Contribution\nThis project involves designing custom graphical elements/fonts for assistive and multimodal interface systems. The goal is to create clear, accessible, and visually consistent visual components that can be integrated into research prototypes and interactive applications. The intern will create scalable vector-based graphical elements and UI assets using illustration tools. By the end of the project, the intern should deliver a well-structured set of graphical assets ready for integration into digital systems.\nRequired Skills\nThe intern should have basic experience with vector illustration tools such as FontForge, Inkscape, Adobe Illustrator, or similar software. A general understanding of graphic design principles is expected.\nPreferred Skills\nPrior experience in UI/UX design, accessibility-focused design, or creating scalable vector graphics will be beneficial, but is not mandatory. A portfolio of previous design work will be appreciated."
+  },
+  {
+    "title": "Developing AI models for Nanofiltration membrane design",
+    "description": "Nanofiltration membranes are attractive for numerous applications due to its low energy operation. However, fabricating controlled pore structures in such membranes have been challenging. The intern will use AI models to find the optimum fabrication procedure for such membranes."
+  },
+  {
+    "title": "Developing Hands-on Learning Modules on Physics using a Smartphone for Science Education",
+    "description": "This project aims to turn smartphone into a scientific tool to study physics. The internship will explore how internal sensors such as accelerometers, gyroscope, barometer, and light meters can be used to conduct physics experiments outside of a traditional lab setting. While the phone acts as the primary data logger, you have to build some creative physical setups, to expand the scope of the measurements. The intern will focus on reading and understanding articles, execute experiments using smartphone, and document them."
+  },
+  {
+    "title": "Development of a Bio-Inspired Electronic Skin for Robotic Tactile Sensing and Adaptive Interaction",
+    "description": "This project proposes an exploratory research investigation and prototype development of a bio-inspired artificial skin system aimed at enhancing robotic perception, compliance, and physical interaction capabilities. As robots increasingly operate within human-centric environments, the development of tactilely responsive interfaces is critical for enabling safe manipulation, adaptive behaviour, and context-aware interaction.\nThe internship will begin with a structured scientific review of the morphological, mechanical, and sensory characteristics of human skin, with particular emphasis on its multilayer architecture, viscoelastic behaviour, and distributed sensing mechanisms. Interns will examine contemporary advances in artificial skin (e-skin), soft material systems, flexible electronics, and robotic tactile sensing, with the objective of identifying technological gaps, performance limitations, and unresolved research challenges.\nBuilding upon this analytical foundation, interns will formulate an engineering-driven design framework for a multilayer artificial skin architecture that functionally approximates key characteristics of biological tissue, including compliance, resilience, and pressure sensitivity. The project will involve the experimental exploration of soft polymers, elastomers, and bio-derived materials to evaluate their suitability for layered fabrication and sensor embedding.\nSubsequently, interns will design and fabricate an initial proof-of-concept artificial skin prototype incorporating tactile sensing elements and a basic data acquisition interface. Emphasis will be placed on material compatibility, structural stability, signal fidelity, and repeatable fabrication workflows suitable for robotic deployment.\nThe developed artificial skin will undergo preliminary mechanical characterization to assess parameters such as flexibility, deformation response, and durability. In parallel, sensing performance will be evaluated through controlled touch-based experiments to examine sensitivity, response consistency, and noise behaviour.\nFor system-level validation, the artificial skin will be mechanically and electronically integrated with a physical robotic substructure such as a robotic finger, gripper, or hand to enable foundational interaction experiments. These demonstrations will help assess the feasibility of the proposed architecture in real-world robotic manipulation contexts, particularly where compliant contact and tactile awareness are essential."
+  },
+  {
+    "title": "Development of a digital image correlation system",
+    "description": "This project is to develop and validate a low-cost digital image correlation system. The purpose of the set-up will be to measure the deformations and strains in a structural component made of steel, concrete or other material."
+  },
+  {
+    "title": "Development of Advanced Process Control (APC) for semiconductor process tool parts-MFC and process heater",
+    "description": "This project involves connecting and controlling semiconductor tool parts by APC. This process is widely used in semiconductor fab for process control. This project will involve the electrical connection, data acquisition, and analysis of the real-time data for process optimization using LabVIEW and MATLAB."
+  },
+  {
+    "title": "Development of an Integrated Plasma-PMC Simulation Tool with GUI",
+    "description": "Translate an existing Python-based plasma simulation code into C++, integrate it with an existing C++ PMC framework and develop a desktop GUI for user-friendly simulation control and visualisation. The final outcome will be a standalone executable for scientific and engineering applications.\nPre requisites: Strong proficiency in C++, CUDA and Python, experience with numerical methods and scientific computing, familiarity with ODE solvers and Monte Carlo methods, and basic knowledge of GUI frameworks (preferably Qt) and CMake-based build systems."
+  },
+  {
+    "title": "Development of food-to-food enriched nutritional products for deployment in mid-day meal scheme for school children",
+    "description": "In this project the intern will be trained in nutritional food product development in the specific domain of food-to-food enrichment using food products that are regionally and culturally relevant. The work will involve learning methods for nutritional profiling and analysis, assessment of cellular response to nutrients present in the developed food products, and food sensory evaluation."
+  },
+  {
+    "title": "Development of Hands-on Learning Modules on Plant Biology for Science Education",
+    "description": "This project aims to develop hands-on learning modules in Biology education for high schools in India. The internship will explore topics in plant physiology, cell biology, and bio-art through seed germination & tropism studies, respiration experiments, plant tissue microscopy, vegetative propagation, chromatography-based pigment analysis, bioplastic products and epoxy resin jewellery. The intern will focus on experimental design, standardisation of protocols, data recording, and scientific documentation.\""
+  },
+  {
+    "title": "Development of low-carbon building products",
+    "description": ""
+  },
+  {
+    "title": "Development of machine learning force fields for metallic alloys",
+    "description": "The project will involve generating an extensive synthetic dataset using density functional theory simulations followed by employing state-of-the-art ML models for training interatomic force fields for metallic alloys"
+  },
+  {
+    "title": "Development of quantum materials-perovskite-based flexible solar cells",
+    "description": "The project will involve the synthesis of graphene-based quantum and perovskite materials, their detailed structure-property correlations, and the fabrication of flexible solar cells with electrical testing."
+  },
+  {
+    "title": "Discovery of CRISPR-like Sequences in Plant Genomes Using AI-Driven Analysis",
+    "description": "This summer internship project aims to identify and characterize CRISPR-like sequences (CRISPR arrays, cas genes, and associated repeat-spacer elements) in plant nuclear and organelle genomes, leveraging publicly available genomic datasets from different plant species.  Interns will employ AI tools like deep learning models (e.g., CRISPRNet or transformer-based predictors) and sequence alignment algorithms (e.g., HMMER, BLAST) to scan genomes for native CRISPR-Cas homologs, predict their functionality, and perform comparative analyses across plant taxa to uncover evolutionary patterns or potential endogenous gene drive systems.\nDesired Skill Sets\nProficiency in bioinformatics tools (Linux, Python/R scripting, BLAST/HMMER).\nExperience with genomic databases (NCBI, Phytozome) and NGS data handling.\nFamiliarity with AI/ML frameworks for sequence prediction.\nPlant molecular biology knowledge (genome organization, gene families).\nData visualization and basic statistics (e.g., R for phylogenetics, IGV for browsers)."
+  },
+  {
+    "title": "Disorder, Localization, and the Fate of Superconductivity",
+    "description": "This project investigates the interplay between disorder, localization, and superconductivity in low-dimensional and low-density systems. While disorder tends to localize electronic states and suppress coherent transport, attractive interactions can drive superconducting pairing, leading to a subtle competition between localization and long-range phase coherence. The goal is to develop theoretical models that capture how disorder modifies pairing, phase stiffness, and collective excitations, and to identify regimes where unconventional superconducting states or quantum phase transitions emerge. By combining field-theoretical approaches and numerical methods, the project aims to clarify the mechanisms governing the superconductor–insulator transition and provide experimentally relevant signatures in transport and spectroscopy."
+  },
+  {
+    "title": "Domain Decomposition Accelerated Neural Networks",
+    "description": "Domain Decomposition Accelerated Neural Networks (DD-ANNs) is a research project aimed at developing fast and scalable neural-network–based solvers for continuum electrostatic models arising in computational chemistry. In many applications such as solvation free-energy calculations, one must solve large elliptic partial differential equations, notably the Linearized Poisson–Boltzmann (LPB) equation and the COnductor-like Screening MOdel (COSMO). Although physics-informed neural networks and related machine-learning approaches provide mesh-free alternatives to classical finite element or boundary element methods, they typically suffer from slow convergence, high training cost, and difficulty resolving sharp dielectric interfaces around molecular surfaces. This project proposes to overcome these limitations by coupling neural networks with classical domain decomposition techniques from scientific computing.\n\nThe main idea is to partition the molecular domain into smaller subregions and assign a neural network to each subdomain so that the networks learn local solution behavior rather than the entire global solution. Domain decomposition iterations will enforce continuity and flux conservation across interfaces, effectively acting as a numerical preconditioner for neural network training and significantly accelerating convergence. The resulting hybrid framework is expected to improve stability, scalability, and accuracy for complex molecular geometries while enabling efficient parallelization. The developed methodology will provide faster electrostatic potential and solvation energy computations for biomolecules and materials, with applications in drug design, molecular modeling, and quantum chemistry simulations."
+  },
+  {
+    "title": "Driver Circuit Design for Power Converters",
+    "description": "Objective is to design high-frequency low-power driver circuits for Power MOSFETs of the DC-DC converter circuits. Experience with PSPICE simulation tools and course work in analog circuit/power electronics are pre-requisites. Experience with IC Design tools such as Cadence Virtuoso is a plus."
+  },
+  {
+    "title": "Drone Data Acquisition Processing and Interpretation - Digital Geoscience",
+    "description": "Leverage UAV/drone technology to capture/ utilize collected high-resolution imagery of geological outcrops, process data using photogrammetry tools (e.g., Agisoft Metashape, Pix4D), and interpret features for structural mapping and/ sedimentological analysis. Student interested to build apps to visualize the 3D drone based models are also invited to apply for this position.\n\nPreferred Backgrounds:\nGeology/Earth Sciences: Strong foundation in field mapping, outcrop analysis, and geosciences.\nComputer Science: Proficiency in image processing, Python scripting, machine learning for geospatial data, or GIS software.\nLocation: IITGN campus, Gandhinagar, with potential field visits."
+  },
+  {
+    "title": "Drop Impact Dynamics on Micro/Nanoengineered Biomimetic Surfaces",
+    "description": "Rice leaves possess longitudinal macroscopic veins which depict a natural anisotropic wetting characteristic, where liquid moves more easily in one direction than another. Micro-grooved surfaces can mimic such rice leaves and help in understanding the dynamics of liquid droplets on impact. The objective of this project is to elucidate  directional transport of liquid on micro- and nanoengineered surfaces. Basic undergraduate level of understanding of thermofluids is desired."
+  },
+  {
+    "title": "Drying and Impact Behavior of Biofluids on Structured Surfaces",
+    "description": "This project will investigate the drying behavior, evaporation dynamics, and droplet impact of biofluids such as bacterial and algal suspensions on engineered patterned surfaces. By systematically varying surface topography and chemistry, the work will quantify how these parameters govern biomass spreading, pinning, and residue morphology, as well as the onset of biofouling. High-speed imaging and controlled droplet deposition will be used to study impact regimes and contact line dynamics. The outcomes will provide mechanistic guidelines for the rational design of next-generation antifouling and low-adhesion materials for marine, biomedical, and water-treatment applications."
+  },
+  {
+    "title": "Electrochemical Ammonia Oxidation",
+    "description": "Ligand design for electrochemical ammonia oxidation."
+  },
+  {
+    "title": "Evaluation of properties of novel building materials with natural fibers",
+    "description": ""
+  },
+  {
+    "title": "Evaluation of properties of novel building materials with natural fibers",
+    "description": ""
+  },
+  {
+    "title": "Excited-State Processes in Green-Synthesized Carbon Quantum Dots for Metal-ion Bio-sensing Applications",
+    "description": "Carbon quantum dots (CQDs) have emerged as an important probe for environmental monitoring of toxic heavy metal ions such as Fe³⁺, Cu²⁺, Hg²⁺, and Pb²⁺. Numerous reports have shown detection limits and selectivity of these metal-ions using the fluorescence turn-off or turn-on measurements. However, despite the large number of sensing studies, the fundamental photophysical origin of metal-sensing remains poorly understood. The project aims to disentangle the competing relaxation pathways and provide a unified, time-resolved mechanistic understanding linking metal binding to photophysical response. By understanding these excited state processes in real time, we aim to move metal-ion sensing beyond empirical approaches toward a rational, mechanism-driven design strategy."
+  },
+  {
+    "title": "Exploring Colloidal Crystallization Pathways in Two Dimensions Using Temperature-Sensitive Particles",
+    "description": "This project aims to investigate how crystallization pathways in two-dimensional colloidal systems depend on the rate at which interparticle interactions are quenched. Temperature-sensitive colloidal particles will be used, whose effective size and interaction strength can be tuned continuously by temperature, allowing controlled and reproducible quenches from fluid to solid-like states.\n\nBy varying the temperature quench rate, the project will explore distinct crystallization scenarios, including defect-mediated ordering, glassy arrest, and two-step nucleation. Experiments will be performed in quasi-two-dimensional geometries and imaged using optical microscopy, enabling direct visualization of particle configurations and defect dynamics at single-particle resolution.\n\nStructural order parameters, defect densities, and domain growth kinetics will be extracted from image analysis to map how nonequilibrium pathways and final crystal quality depend on quench protocol. The project will introduce the student to nonequilibrium phase transitions, colloidal model systems, and quantitative analysis of 2D melting and crystallization."
+  },
+  {
+    "title": "Exploring the potential of boron-rich nanosheet based coatings for thermal and energy storage application",
+    "description": "This project focuses on studying boron-rich nanosheets and exploring how they can be used as advanced coatings for thermal management and energy storage applications. The student will investigate how the structure and properties of these nanosheets influence heat resistance, thermal conductivity, and energy storage behavior. The work will involve material synthesis or processing, basic characterization, and performance evaluation, helping the student gain hands-on experience in nanomaterials, surface engineering, and energy-related applications."
+  },
+  {
+    "title": "Foundation Models for Predictive Healthcare: A Multimodal AI and Open Hardware Approach",
+    "description": "To design and develop a research-grade multimodal AI framework capable of predicting early risk indicators for high-impact diseases, while demonstrating how open-source electronic hardware can enable accessible and scalable health-monitoring solutions for the broader community.\nCore Objectives\n•\tDevelop a structured pipeline for integrating heterogeneous healthcare data, including physiological time-series, clinical records, and optional imaging datasets.\n•\tBuild baseline and advanced deep learning models for early disease risk prediction.\n•\tImplement multimodal fusion strategies to enhance predictive performance.\n•\tExplore shared-representation learning for multi-label risk modeling.\n•\tDesign and prototype an open wearable health-sensing node to simulate real-time data acquisition.\n•\tEvaluate model interpretability, robustness, and clinical relevance.\n•\tProduce reproducible research outputs suitable for conference publication."
+  },
+  {
+    "title": "FPGA and Arduino level implementation of Oscillatory Neural Network (ONN) for obstacle avoidance robot",
+    "description": "An oscillatory neural network (ONN) is an artificial neural network that uses coupled oscillators as neurons for making of obstacle avoidance robot. The project aims to implement such an ONN on hardware using FPGA and Arduino. The student should have the digital systems and embedded systems understanding, and interfacing protocols for connecting different connectors for communications between two circuit boards"
+  },
+  {
+    "title": "From Chaos to Control: Directing Molecular Movement with Enzyme Activity",
+    "description": "Beyond catalyzing reactions, enzymes can actively influence molecular motion, creating non-thermal fluctuations that can be leveraged for controlled transport in cells. This project explores how enzyme activity can be harnessed to enhance and direct the movement of ligands, proteins, or other biomolecules in crowded cellular environments. The intern will work on modeling molecular transport, analyzing data from experiments or simulations, and investigating how enzyme-driven fluctuations can be utilized for efficient and targeted intracellular transport. Students with a background in physics, chemistry, biology, or bioengineering and an interest in molecular transport or computational modeling are welcome. Basic programming skills (Python/MATLAB) or experience with biophysical experiments would be an advantage."
+  },
+  {
+    "title": "From Classroom to Creation: Natural Dye Extraction and Value-Added Product Development in School Education",
+    "description": "Extraction of natural dyes and pigments from flowers and other plant parts, along with essential oils and natural colorants, to bridge school education with real-life applications. This two-month internship project will involve students extracting natural dyes and incorporating them into the development of products such as creams and lotions. The formulated products will be evaluated through various testing parameters, including physical characteristics, pH testing, irritancy testing, washability, spreadability, and phase separation analysis."
+  },
+  {
+    "title": "Gas sensing and optoelectronic applications using functional materials",
+    "description": "The project entails the synthesis, fabrication, and measurement of gas-sensing and optoelectronic applications of functional materials and their heterojunctions."
+  },
+  {
+    "title": "Generalized Radon transform over vector fields in R^3",
+    "description": "This two-month Master's project focuses on deriving and numerically implementing explicit inversion algorithms for the Generalized Radon Transform (GRT) of vector fields in R^3. While the broader research objective is to reconstruct symmetric m-tensor fields, this project is strategically restricted to rank-1 tensors (vector fields) to ensure feasibility. The primary goal is to establish a computational framework for the GRT, defined here as the integral of various vector field projections over hyperplanes\n\nThe project’s mathematical foundation centers on deriving explicit forward and adjoint operators for the Generalized Radon Transform (GRT) in a discrete setting. The student will first discretize the continuous integral transform for vector fields. A primary theoretical focus will be the derivation of the L^2-adjoint (backprojection) operator, which is fundamental to iterative reconstruction. Finally, the student will analyze the transform’s kernel to characterize the specific vector field components that are theoretically recoverable.\n\nIn the implementation phase, the student will develop a complete inversion pipeline using MATLAB or Python. This involves generating 3D numerical phantoms to serve as ground truth data, specifically featuring vector fields with distinct solenoidal and potential components. Utilizing derived discrete operators, the student will implement both forward data computations and inversion algorithms. Finally, the robustness of these schemes will be validated by evaluating performance across various phantoms under both ideal and noisy conditions."
+  },
+  {
+    "title": "Generating 3D atomic structures of amorphous carbon using Generative AI",
+    "description": "The project will use diffusion models (and other GenAI techniques such as VAEs) to generate large-scale atomic structures of amorphous materials such as Carbon."
+  },
+  {
+    "title": "Geometric and Combinatorial Structures in Scattering Amplitudes",
+    "description": "This project will introduce students to modern on-shell methods in quantum field theory, focusing on the mathematical structures underlying scattering amplitudes. Topics may include recursion relations (e.g., BCFW), factorization properties, positive geometries such as associahedra, and the role of combinatorics in organizing Feynman diagrams. The emphasis will be on understanding how physical principles like locality and unitarity translate into geometric or algebraic structures. Depending on the student’s preparation, the project may include explicit computations in simple scalar theories or exploratory work on polytopes and canonical forms.\n\nBackground recommended: Basic quantum field theory, linear algebra, complex analysis and some exposer to Mathematica is helpful."
+  },
+  {
+    "title": "Hardware Accelerator for Large Language Models: Hardware-Software Co-design",
+    "description": "BTech students pursuing their degree in Electronics / Computer Science and Engineering can apply.\nHardware accelerators focus on design of specialized hardware for improving performance of machine learning models with a focus on reducing latency and energy. This project focuses on designing different mutliply-and-accumulate (MAC) designs for hardware accelerator, validating all  design involves,  designing different configurations (tilings, etc.) for  accelerator, testing on FPGA or Spice level implementation and designing software stack development with RISC-V or equivalent processor accelerator.  \nThe students will b required to learn and understand use of Hardware accelerator modeling tools like Timeloop, CIMLoop, etc. \nApart from this, knowledge of VLSI, Digital logic, Machine learning, Computer architecture will be beneficial."
+  },
+  {
+    "title": "Heavy quarkonia dissociation within potential models",
+    "description": "The primary aim of this project is to derive the heavy quark-antiquark potential in a hot QCD medium and, consequently, study the dissociation mechanics of heavy quarkonium states within the quark-gluon plasma (QGP) produced in heavy-ion collisions. We are also interested in deriving this potential using NRQCD and related effective field theory approaches"
+  },
+  {
+    "title": "How Enzymes Stir the Cellular Soup: Understanding Active Fluctuations in Crowded Environments",
+    "description": "Cells are highly crowded spaces where enzymes not only drive chemical reactions but also generate tiny, active fluctuations that influence molecular movement. This project explores how enzyme activity creates and propagates these non-thermal fluctuations, affecting transport processes in dense biological environments. The intern will work on developing theoretical models, running simulations, and analyzing experimental or computational data to understand enzyme-driven fluctuations. Basic knowledge of statistical mechanics and molecular dynamics are required. Students with backgrounds in physics, chemistry, biology, or bioengineering who are interested in computational modeling and biophysics are encouraged to apply."
+  },
+  {
+    "title": "Hybrid CFD–ML Framework for Data-Augmented RANS Turbulence Modeling",
+    "description": "\"This project develops a CFD–ML framework, in collaboration with ANSYS, develop a RANS turbulence model using pre-curated high-fidelity datasets. A machine-learned turbulence closure is trained offline using PyTorch and integrated into Ansys Fluent via PyFluent for deployment within a  CFD solver.\nThe framework will be validated on canonical benchmark cases such as the backward-facing step and planar mixing laye. The outcome is a practical, extensible workflow that embeds data-driven turbulence modeling directly into industrial CFD simulations while maintaining computational efficiency.\""
+  },
+  {
+    "title": "Hydrovoltaic energy generation using membranes",
+    "description": "Energy generation from ambient moisture is very attractive as it is a source of renewable energy. Nanostructures are found to harness electricity due to the interaction of surface charge with water. In this project, the intern will develop membranes with active functional groups, which is expected to enhance the interaction with water. For this purpose, large specific surface area  (>1000 m^2/g) membranes are optimal."
+  },
+  {
+    "title": "Igniting Curiosity: An Inquiry-Based Study of Matchstick Magnetism and Electrochemical Transformations",
+    "description": "This undergraduate summer research project explores how simple chemical phenomena can lead to deeper scientific insights and classroom innovation. Students will investigate combustion-induced magnetic behavior in matchsticks and examine how composition influences phase formation. The project also includes electrochemical studies on voltage changes in cells in a solder wire-magnesium electrochemical cell after electrolysis. Through hands-on experimentation and systematic analysis, interns will design inquiry-based classroom modules grounded in real observations. Ideal for students interested in chemistry, materials science, and science education."
+  },
+  {
+    "title": "Integrating Acid–Base Chemistry with Eco-Printing and Ajrakh Traditions: A Sustainable Educational Kit for Schools",
+    "description": "The project invovles developing an interdisciplinary educational kit for schools centered on acid–base chemistry, natural dye extraction, and traditional textile techniques such as eco-printing, Ajrakh, and block printing. The project will integrate microscale experiments to explore pH, mordants, pigment behavior, and color changes in a sustainable laboratory framework. Interns will design safe, low-cost experimental modules that connect chemistry concepts with indigenous craft practices. The kit will promote green chemistry principles, resource efficiency, and experiential learning. The outcome will include teacher manuals, student activity sheets, and prototype sustainable chemistry kits ready for classroom implementation."
+  },
+  {
+    "title": "Investigating differential expression of clock genes in cancer",
+    "description": "The project involves running differential expression analysis pipelines to understand the diferential expression of clock genes in cancers."
+  },
+  {
+    "title": "Large sieve and its generalizations",
+    "description": "The Large Sieve is one of the central tools in modern analytic number theory. It has developed into a powerful framework for understanding how arithmetic sequences distribute in residue classes and how they correlate with Dirichlet characters and exponential phases. The project will begin with the classical formulation and proof of the Large Sieve inequality. Emphasis will be placed on understanding both the intuition behind the method and the key ideas that make it effective.\n\nThe second part of the project will explore important applications of the Large Sieve to problems concerning the distribution of prime numbers and multiplicative functions in arithmetic progressions. Depending on progress, this may include studying variants such as the dual large sieve, the Bombieri–Vinogradov theorem, and related equidistribution results. The overall aim is to develop a clear conceptual and technical framework of how large sieve methods operate and why they play a fundamental role in contemporary analytic number theory."
+  },
+  {
+    "title": "Large-Scale Mechanical & Mechatronics Exhibits | Roundabouts, Museums & Public Spaces",
+    "description": "Pixel-art based portraits, bamboo structure, mechatronics based unique exhibits model, design & prototyping. The internship scope will be to create the 1/10th scale design and eventually install into the public space in collaboration with city municipal corporation. Center for Creative Learning has created 18+ unique such exhibits at various institutions and organisations. Find some at https://www.instagram.com/ccl_iitgn/"
+  },
+  {
+    "title": "Laser surface texturing of marine aluminium alloys",
+    "description": "The project is to conduct micro and nano texturing of marine grade aluminium alloys using lasers and hydrothermal processing routes. The surfaces will then be characterized and evaluated for wettability in air and underwater."
+  },
+  {
+    "title": "Lightweight RAG-Based Voice-to-Voice System for Indic Languages",
+    "description": "Overview & Expected Contribution\nThis project builds upon prior research on voice-controlled systems in Indic languages. The goal is to develop a lightweight voice-to-voice interaction system that can run on low-resource devices such as Raspberry Pi. The intern will build or fine-tune small speech recognition models and integrate them with a simple Retrieval-Augmented Generation (RAG) framework for contextual responses. The focus will be on creating an efficient and practical prototype rather than a large-scale production system. By the end of the project, the intern should demonstrate a working voice-based control system operating in an Indic language.\nRequired Skills\nBasic knowledge of Python and deep learning is required. The intern should be familiar with TensorFlow or PyTorch and have an understanding of speech recognition fundamentals.\nPreferred Skills\nExperience with speech processing, NLP, or lightweight transformer models is helpful but not mandatory. Familiarity with Raspberry Pi deployment or edge-device optimisation will be an added advantage."
+  },
+  {
+    "title": "Machine Learning Potentials for Ion Transport in Solid-State Electrolytes",
+    "description": "Understanding ion transport mechanisms in solid-state electrolytes is central to the development of next-generation batteries. This project aims to combine density functional theory (DFT), classical molecular dynamics (MD), and machine learning interatomic potentials to investigate ion migration pathways and transport coefficients in model solid electrolytes. The intern will generate DFT reference data for representative configurations, develop or employ a machine-learning potential to reproduce the DFT potential energy surface, and subsequently perform large-scale classical MD simulations to compute diffusion coefficients and analyze ion-conduction mechanisms. The project requires foundational knowledge of DFT and atomistic simulations, familiarity with MD packages (e.g., LAMMPS or GROMACS), and basic Python programming for data analysis; prior exposure to machine learning methods will be advantageous."
+  },
+  {
+    "title": "Machine Learning–Assisted Design of TADF-Based Organic Photocatalysts",
+    "description": "Thermally Activated Delayed Fluorescence (TADF) molecules are emerging as promising metal-free photocatalysts due to their small singlet–triplet energy gaps, efficient reverse intersystem crossing, and long-lived excited states. This project aims to develop a data-driven framework to understand and predict the excited-state properties that govern photocatalytic activity in TADF systems. The intern will perform ground- and excited-state electronic structure calculations (DFT/TDDFT) on a curated set of donor–acceptor TADF molecules to compute descriptors such as singlet–triplet gaps, frontier orbital energies, and excited-state redox potentials. These quantum chemical descriptors will then be used to train simple machine learning models to establish structure–property relationships and identify molecular features that optimize photocatalytic driving force and excited-state stability.\nThe project requires basic knowledge of quantum chemistry and excited-state concepts, familiarity with DFT calculations (Gaussian/ORCA or similar), and working knowledge of Python for data handling and machine learning (NumPy, pandas, scikit-learn). A background in photophysics or photoredox catalysis will be advantageous but not mandatory."
+  },
+  {
+    "title": "Macromolecular structure determination via X-ray crystallography",
+    "description": "Studying macromolecular crystallography and data handling techniques."
+  },
+  {
+    "title": "Main-Group Metal Catalysts for Sustainable Transformation of Small Molecules into Value-Added Chemicals",
+    "description": "The conversion of cheap and abundant small molecules into value-added chemicals is one of the main frontiers of modern inorganic chemistry. Transition metal complexes have a long tradition in activating and functionalizing chemical bonds. However, high toxicity and low occurrence in the Earth’s crust are concerning issues for transition metals. This project will focus on the development of new catalytic systems based on Main Group Metals for the conversion of cheap and abundant raw materials, such as N2, H2, CO, CO2, and hydrocarbons, to value-added chemicals/materials."
+  },
+  {
+    "title": "Matter-antimatter asymmetry in early Universe",
+    "description": ""
+  },
+  {
+    "title": "Micro patterning glass with laser and studying wettability",
+    "description": "This is in collaboration with IIT Bombay. The laser patterned glass substrates from IIT Bombay will be used to evaluate the wetting and optical properties. The SEM, surface profiler, contact angle, spectroscopy techniques will be used for this."
+  },
+  {
+    "title": "Microscale Chemical Kinetics & Quantitative Chemistry",
+    "description": "Project Overview\nThe work involves exploring, designing, and standardizing microscale experiments that demonstrate:\nChemical kinetics (reaction rates, rate laws, effect of concentration/ temperature/ catalysts)\nQuantitative chemistry (stoichiometry, limiting reagents, rate measurements, colorimetric quantification, microscale titrations). The work is aimed at developing safe, low-cost, hands-on experiments that can be used in schools and teacher training. The work involves\nConducting  literature review on microscale kinetics experiments,\nDeveloping  and testing reaction protocols, \nOptimizing procedures for safety, clarity, and reproducibility and \nDocumenting  results through manuals, photos, and short videos"
+  },
+  {
+    "title": "Microstructural evolution of Fe-based intermetallics in Al-Mg-Si-based alloy at different thermodynamic conditions using phase field simulation",
+    "description": "Commercial multicomponent Al-Mg-Si based alloys often contain iron (Fe) as an impurity that leads to the formation of various Fe-based intermetallic phases. The microstructures and size of these primary intermetallic phases often play a crucial role in affecting the overall mechanical behaviour of these alloys. The project aims to simulate these iron-based intermetallics during solidification and at different thermodynamic states under different heat-treatment conditions. The thermodynamic stability of these phases will be studied through calphad-based multicomponent calculations, followed by microstructural simulation using phase field modeling. The project will utilize open-source phase field solvers such as PRISMS-PF/ MicroSim etc for modelling and simulation. Grand Potential and Kim Kim Suzuki (KKS) phase-filed model-based multicomponent multiphase solver will also be used on the MPI/OpenCl framework. Thermodynamic calculations will be carried out on the ThermoCalc software package."
+  },
+  {
+    "title": "Mixed-Signal Mixed-Precision Compute In Memory Architectures",
+    "description": "This project is focused on designing different memory cell based arrays, design several analog compute designs, explore RRAM based Compute-In-Memory (CIM), identify the variations observed in Analog SRAM based CIM and RRAM based CIM and find out the best possible precision that can be supported by the Mixed-Signal CIM. This project will also investigate several ADC and DAC designs with variable precision support."
+  },
+  {
+    "title": "Modeling, Control, and Optimization for Energy and Environmental Applications",
+    "description": "(1) Identify a suitable complex energy or environmental system. (2) Develop a process model of the system. (3) Perform steady state optimization. (4) Develop and implement a feedback controller. \n\nKnowledge of Numerical Methods, Modeling and Simulation, Process Control, and Optimization is desirable. Computer programming skills in either MATLAB or Python are essential."
+  },
+  {
+    "title": "Molecular modelling of mycobacterium cell wall",
+    "description": "The cell wall of Mycobacterium tuberculosis (Mtb) is one of the most complex among bacteria. It contains a strong core made of peptidoglycan that is chemically linked to sugars (galactofuran and arabinofuran) and long fatty acids called mycolic acids. These mycolic acids are arranged perpendicular to the membrane and form a thick lipid barrier, which is a key characteristic of this bacterium. The project will involve developing a computational model to study the mycolic acids."
+  },
+  {
+    "title": "Multilingual information processing (Cognitive Linguistics)",
+    "description": "Profiecient Hindi, Gujarati, Marathi, or Telugu speakers are preferred for this project, and basic understanding of statistics and experimental techniques are required. The summer project will be targeting an experiment measuring multilingual speakers' literacy and comprehension skills on written information in various languages, employing behavioral and eye-tracking techniques. Interns can develop their individual project under the supervisor's guidance at the same time. All interns are supposed to work on campus from early May to June."
+  },
+  {
+    "title": "Multisensory Perception in Blindness",
+    "description": "The intern will assist in studies to understand multisensory processing in the audio-tactile domain. We are interested in how different senses combine to form a coherent percept, and how the loss of one sense (e.g., blindness) alters processing in the other senses. Our focus will be in spatial perception and categorical perception in the audio-tactile domain"
+  },
+  {
+    "title": "Nanofiltration membrane-design and testing",
+    "description": "Nanofiltration membranes are less energy intensive than RO membranes and hence attractive for many filtration applications. Nanofiltration membranes based on polyamide and vermiculite is being developed in the lab. It needs further optimization in terms of water flux and salt rejections. The intern will work towards developing these membranes and test against the industry benchmark for commercialization."
+  },
+  {
+    "title": "Nanomaterials as Heat Spreaders for Electronic Thermal Management",
+    "description": "Concentrated heat loads from electronic components pose significant thermal management challenges in defense, space, and commercial applications. Composites and nanosheets represent classes of novel nanomaterials with unique properties. This project explores these novel materials as potential heat spreaders for efficient heat dissipation. Using our in-house thermal conductivity setup with steady-state heat heat flux measurement, thermal conductivity enhancement in composites and nanosheet-coated metal surfaces will be evaluated, providing scalable thermal solutions for high-power electronics. Understanding of undergraduate heat transfer, fluid mechanics, and thermodynamics desired"
+  },
+  {
+    "title": "Network designing of a commercial scale CCS value chain in Gujarat",
+    "description": "The commercial scale deployment of sub-surface storage depends on a cost-effective mechanism for transporting CO2 from flue gas emission sources to capture plants and further to sub-surface storage sites. This project will aim to utilize GIS, remote sensing and graph theory to develop such a transport network for the state of Gujarat. Initially, major point sources of emissions shall be identified. Further, major subsurface storage sites shall be categorised based on their estimated storage potential. The most optimum transport pathways between sources and sinks shall be developed using principles of graph theory where edge weights would be based on key parameters such as distance, subsurface storage capacity, proximity to the ocean, etc."
+  },
+  {
+    "title": "Neural Operator Surrogate for Parametric 1D Reaction–Diffusion Dynamics",
+    "description": "The intern will generate simulation data using a stable numerical solver and develop a Fourier Neural Operator (or similar architecture) to build a fast, generalizable surrogate model. The project offers hands-on experience in scientific computing, deep learning, and physics-based modeling. Ideal for students interested in AI for science, numerical methods, and next-generation computational modeling."
+  },
+  {
+    "title": "Novel Quantum Phases in Unconventional Magnets: Focus on Altermagnet",
+    "description": "This project aims to explore novel quantum phases in unconventional magnetic materials, particularly altermagnets, which exhibit momentum-dependent spin splitting despite having zero net magnetization. The goal is to develop simple theoretical models to understand how this unique magnetic order modifies electronic structure and drives new phenomena such as unconventional superconductivity, topological states, and unusual transport behavior. By combining quantum many-body theory and computational techniques, the project plans to identify clear experimental signatures and establish altermagnets as a promising platform for future quantum materials research."
+  },
+  {
+    "title": "Numerical methods for parameter reconstruction in PDE-COnstrained Inverse Problems",
+    "description": "1. Develop deep learning frameworks for the reconstructing PDE parameters from data. 2. Study sequential quadratic programming to solve the optimization problem in reconstruction of parameters  for PDE based problem."
+  },
+  {
+    "title": "Obervables in B-decays",
+    "description": ""
+  },
+  {
+    "title": "Observables in de Sitter Space and Modern Amplitude Methods",
+    "description": "This project explores the nature of physical observables in de Sitter (dS) space, which plays a central role in cosmology. Unlike flat space, standard scattering amplitudes are not directly defined in dS. Instead, one studies wavefunctions of the universe or cosmological correlators. The project will introduce students to these observables and examine how modern amplitude-inspired techniques -- such as analytic structure, factorization, and geometric methods -- can help organize and compute them. Possible directions include simple toy models, analytic properties of cosmological correlators, or connections to positive geometry.\n\nBackground recommended: Basic quantum field theory; some familiarity with general relativity or cosmology is beneficial but not strictly required; some exposer to Mathematica is helpful"
+  },
+  {
+    "title": "On-Device Mobile Gaze Tracking System",
+    "description": "Overview & Expected Contribution:\nThis project focuses on developing a real-time gaze tracking system that runs directly on a mobile device using the front-facing camera. The objective is to build a lightweight deep learning model and integrate it into a mobile application for simple command-and-control interaction. The intern will work on capturing camera input, performing basic eye-region preprocessing, and deploying a trained model using TensorFlow Lite (TFLite) or any similar framework that enables efficient on-device inference. The primary goal is to build a smooth and responsive prototype that demonstrates real-time gaze estimation on a mobile phone.\nRequired Skills:\nThe intern should be comfortable with programming in Java, Kotlin, or Flutter and have basic Python knowledge. A foundational understanding of deep learning and image processing concepts is expected. Familiarity with TensorFlow or PyTorch at a basic level is sufficient.\nPreferred Skills:\nPrior experience with mobile app development, TensorFlow Lite, OpenCV, or real-time computer vision projects will be helpful, but is not mandatory. Interest in AI-based human-computer interaction systems is a plus."
+  },
+  {
+    "title": "Optimal Sampling Strategies for High-Dimensional Semiconductor Process Modeling",
+    "description": "This project focuses on developing and evaluating optimal sampling techniques for data-driven modeling of high-dimensional semiconductor processes where experimental data is scarce and costly. The intern will study advanced design-of-experiments and active learning methods, analyze sampling efficiency, and identify strategies that maximize model accuracy with minimal experimental runs.\nPre requisites: Strong background in machine learning and statistics, familiarity with design-of-experiments and surrogate modeling methods, experience with Python-based data analysis and ML frameworks, basic understanding of semiconductor manufacturing processes, and strong analytical and research skills."
+  },
+  {
+    "title": "Photocatalytic chemistry of organometallic complexes",
+    "description": "Transition metal complexes (M= In, Zn, Re, Ir, Pd) with pyrrole based ligands will be explored for organic reactions such as C-C, C-N, C-B, C-O bond formations.  Visible light/ sunlight will be used as energy source to activate the photocatalyst. Singlet oxygen generation studies, column chromatography and TLC technique will also be part of this project work."
+  },
+  {
+    "title": "Physics Informed ML for Semiconductor Device and Process Modeling",
+    "description": "This project focuses on developing physics-informed machine learning models for semiconductor device and process simulations using NVIDIA PhysicsNeMo. The intern will integrate physical constraints and governing equations into neural networks to improve prediction accuracy, generalization and data efficiency for device and process modeling. The work includes model development, validation against TCAD/experimental data, and application to advanced semiconductor technologies.\nPre requisites: Strong background in machine learning and deep learning, familiarity with Python, PyTorch, Nvidia PhysicsNEMO, physics-informed neural networks and scientific AI frameworks, experience with numerical methods and PDEs,  basic knowledge of semiconductor device physics and process modeling."
+  },
+  {
+    "title": "Polymer coated Celluose Acetate beads for water treatment",
+    "description": "This project aims to develop a water \nfiltration system based on cellulose acetate (CA) beads coated with a copolymer of aminopropyl \nmethacrylamide and benzyl methacrylamide (AB polymer). The CA beads will be fabricated using a \nphase separation method and coated with AB polymer using a suitable cross-linker. The antibacterial efficacy of the beads  will be evaluated against both gram-positive \nand gram-negative bacterial strains in both static batch and dynamic column \nfiltration setups. Reusability and stability of prepared beads will be studied over multiple filtration \ncycles."
+  },
+  {
+    "title": "Polymer Hydrogels for Harvesting Rare Earth and Critical Elements",
+    "description": "In this project the intern will learn method for preparation of polymeric hydrogels, their characterization and ability to create variants. The intern will be trained in using such polymeric hydrogels for adsorptive extraction of rare earth and critical elements for prospective clean-up of solid electronic waste and effluent channels. The work performed could result in creation of IP through patent protection."
+  },
+  {
+    "title": "Programming and analysis of combinatorial and graph games",
+    "description": "As part of this project we will analyse and develop a digital implementations games. The candidate should be comfortable with proof and mathematical analysis. Interest and willingness to engage with programming, design and aesthetics is required."
+  },
+  {
+    "title": "Redegining portal for seismic interface",
+    "description": "This project focuses on modernizing the digital infrastructure used to access and visualize complex seismic data. The \"Redefining Portal\" initiative aims to transform legacy data repositories into a dynamic, user-centric web platform. The primary objective is to overhaul the User Interface (UI) and User Experience (UX), making high-fidelity data—such as RSQSim synthetic catalogs and hazard maps—more accessible to researchers and engineers.\n\nKey features include interactive 3D visualization of fault networks, streamlined API integration for faster data retrieval, and responsive design for cross-device accessibility. By lowering the technical barrier to entry, this project accelerates seismic analysis workflows and fosters interdisciplinary collaboration in earthquake science."
+  },
+  {
+    "title": "SciML for surrogate modelling of rigid pavement slabs",
+    "description": "Rigid pavements (concrete slabs) are critical infrastructure components. These are traditionally designed using the Finite Element Method (FEM) to predict mechanical responses such as stress, strain, and deflection under various conditions. While FEM provides high-fidelity analysis, it suffers from significant limitations in modern engineering workflows i.e., high computational cost, data scarcity, and non-linearity. This project aims to develop a Physics-Aware Graph Neural Network (GNN) that treats the FEM mesh as a graph. Two scientific ML approaches viz., PINNs and DeepONet, will be implemented and compared to traditional neural networks. The performance of these approaches when starved of data will be evaluated. Knowledge of PyTorch is essential for this project. Students from Civil Engineering are preferred."
+  },
+  {
+    "title": "Sensor’s data analysis using ML/AI",
+    "description": "Predict activities and inputs by analysing sensor data. Motivated students interested in working independently are encouraged to apply."
+  },
+  {
+    "title": "Simulation of Earthquakes in subduction zone using RSQSIM",
+    "description": "This project utilizes RSQSim, a physics-based simulator, to model complex earthquake cycles within subduction zones like Hikurangi and Cascadia. By applying rate-and-state friction laws ($a$, $b$, and $D_c$) to 3D fault geometries, the project generates synthetic catalogs spanning hundreds of thousands of years, effectively supplementing limited historical data.The simulations investigate critical dynamics, including stress heterogeneity, multi-fault ruptures, and slow slip events. The primary goal is to refine seismic hazard assessments and early warning systems by characterizing rare, high-magnitude scenarios. This computational approach provides essential insights into rupture nucleation and recurrence intervals, offering a robust framework for quantifying long-term seismic risk."
+  },
+  {
+    "title": "Soft Robotics",
+    "description": "Designing biomimetic soft robots"
+  },
+  {
+    "title": "Soft Surgical Robots",
+    "description": "Design and control of soft surgical robots"
+  },
+  {
+    "title": "Spiking Neural Network (SNN) Simulator Web development using emerging memories",
+    "description": "The project start with advancing the SNN which we have created with a goal to develop a webpage for SNN which can use the emerging memories data and predicts it's performance in an application such as pattern recognition. A gui interface with background code needs to be run with a scope of manual addition of perameters."
+  },
+  {
+    "title": "State-of-the-Art Course on Math Made Visual & STEM | Math Illustrations, Content Research/Design, Video-Written Documentation",
+    "description": "A MOOC course(s) on project/problem focused  fundamental explorations. Some examples are: (i) Colouring a Triangle, Combinatorics Puzzle &  History of Indian Mathematics (ii) Net of Sports Balls (Football, Golfball, Volleyball, Tennis ball, Basketball etc..), 3D Geometry & Fluid Dynamics (iii) Computing with Soap (solving hardest CS problem - Shortest network problem, with soap) (iv) Computational Thinking with weighing-scale  (v) Chemical & Optics explorations with History of Photography (DIY camera with old-style) (vi) Computational Geometry with A4-sheet (vii) Calculus without Calculus, with bicycle problem, cucumber & string-art (viii) Algebra over confusing clocks"
+  },
+  {
+    "title": "STEM Product Design | Artful Math, Puzzles & Unplugged AI Machine Learning",
+    "description": "The Center for Creative Learning has designed 750+ toys/models/products to let anyone fall in love with STEM. Have a look at the work here:\nThe scope of product designing will be to understand/research the content around Artful Math, Puzzles & Unplugged AI Machine Learning & develop toys/products/manuals. The content shall be consumed in schools as a part of formal course by CBSE-NCERT."
+  },
+  {
+    "title": "Stochastic models in biology",
+    "description": "The aim of this applied mathematics project is to explore stochastic processes arising in scientific applications, with a particular focus on Markov process models for various phenomena in cellular biology. In this setting, the small spatial scale and/or low numbers of molecules of reactants and products make a probabilistic treatment essential. The focus in this project will be on models which involve continuous-time Markov chains or stochastic differential equations, or quite frequently, combinations of both (switching diffusions). Our goal is to undertake a detailed analytical and numerical study on a real-world stochastic process like intracellular transport by molecular motors. \n\nThe approach will be theoretical/computational, combining both paper-and-pencil calculations and numerical simulations. Consequently, the successful applicant will have strong skills on both these fronts. In terms of mathematics, a solid grounding in analysis, differential equations, and linear algebra, and some exposure to probability will be essential. Knowledge of numerical methods for solving linear (elliptic) partial differential equations and simulating stochastic processes will be a huge plus. In terms of computation, the applicant will be expected to have good coding skills (e.g., MATLAB), and perhaps more importantly, an enthusiasm to explore all tools---analytical and computational---to better understand problems of scientific interest.\n\nPart of the research will be co-supervised with Prof. Kaustubh Rane (Chemical Engineering)."
+  },
+  {
+    "title": "Structural Health Monitoring of Maritime Structures",
+    "description": "SHM is an important entity to ascertain funcitonal performance of strategic structures like Maritime Structures. Both, expeirmnetal and numerical works are within the scope of this project, which requires a sound background of structural, and computational methods."
+  },
+  {
+    "title": "Studying nucleotide-sugar interactions with enzymes",
+    "description": "The project involves using molecular dynamics simulations to study nucleotide-sugar binding with enzymes. Nucleotide sugars (or sugar nucleotides) are activated, energy-rich donor substrates, consisting of a monosaccharide attached to a nucleoside mono- or diphosphate (e.g., UDP-glucose, GDP-mannose). They act as essential building blocks for synthesizing carbohydrates, glycoproteins, and glycolipids in all living organisms."
+  },
+  {
+    "title": "Superhydrophobic Textiles and Papers for Oil–Water Separation and Antibacterial Applications",
+    "description": "This project will develop sol-based, one-step superhydrophobic silicon dioxide coatings on cotton fabrics and paper substrates for use in oil–water separation and antibacterial applications. The work will focus on scalable, low-temperature processing routes compatible with flexible, porous materials, while tuning coating formulation and deposition parameters to control surface roughness and wettability. Coated samples will be evaluated through contact angle measurements, mechanical and laundering durability tests, and repeated separation and bacterial exposure cycles. The outcomes will establish design and processing guidelines for robust, multifunctional, and environmentally relevant superhydrophobic textiles and papers."
+  },
+  {
+    "title": "Sustainable Hydrophobic Membranes for Oil-water Separation",
+    "description": "The student is expected to fabricate porous membranes that will be made hydrophobic which can be used to selectively allow oil to pass through and repel water. This will be helpful in oil-water separation problems that are commonly encountered in ocean spillages and industries."
+  },
+  {
+    "title": "Sustainable Non-PFAS Hydrophobic Surfaces",
+    "description": "The objective of the project is to develop sustainable, PFAS-free hydrophobic coatings for metal surfaces to enable thermal, fluid, and biomedical applications. The approach will combine nanoparticles with polymer binders to create hierarchical micro/nanostructured textures that promote high apparent contact angles and low contact angle hysteresis. Coated samples will be fabricated using scalable solution-based methods and characterized for wettability, durability, and surface morphology. Understanding of polymer chemistry, materials, and surface engineering desired"
+  },
+  {
+    "title": "Synthesis and Characterization of Rigid Colloidal Clusters",
+    "description": "This project aims to synthesize rigid colloidal clusters composed of a small, well-defined number of colloidal particles with fixed internal geometry. Using controlled aggregation and bonding strategies, individual colloids will be assembled into stable clusters that behave as rigid objects rather than flexible aggregates.\n\nThese rigid colloidal clusters serve as model systems for studying self-assembly, emergent anisotropy, and building-block design in soft matter and materials physics. The project will provide hands-on experience in colloidal synthesis, microscopy, and quantitative data analysis."
+  },
+  {
+    "title": "Synthesis and characterization of temperature sensitive colloidal ellipsoids",
+    "description": "This project focuses on the synthesis of temperature-responsive colloidal ellipsoids using polymer particles with controlled anisotropy. Spherical colloids containing a small fraction of thermo-responsive polymer (PNIPAM) in the core will first be synthesized to enable mechanical deformability during a subsequent stretching process. These particles will then be stretched into ellipsoids using established thermal/mechanical deformation techniques.\n\nAfter shape anisotropy is introduced, an additional PNIPAM-based coating will be grafted or grown on the ellipsoidal particles to enhance and tune their temperature sensitivity. The resulting core–shell ellipsoids combine permanent shape anisotropy with reversible, temperature-controlled swelling and softness.\n\nThe particles will be characterized using optical microscopy to quantify aspect ratio, swelling behavior, and thermal response at the single-particle level. The project will provide hands-on training in colloidal synthesis, some aspects of polymer physics, microscopy, and quantitative image analysis, with broader relevance to responsive soft materials and self-assembly."
+  },
+  {
+    "title": "Synthesis and time resolved spectroscopy study on organic optoelectronic molecules and materials",
+    "description": "Project aims to investigate the excited-state dynamics of organic optoelectronic molecules and materials in order to advance the development of high-performance solar energy conversion and optoelectronic technologies."
+  },
+  {
+    "title": "Synthesis of Organic Dyes",
+    "description": "The project involves synthesis of a few organic dye scaffolds."
+  },
+  {
+    "title": "Synthesis of plasmonic nanohybrids containing gold nanoparticles and semiconductor nanocrystals",
+    "description": "The project will be to synthesize hybrids of gold nanoparticles and quantum dots or perovskit nanocrystals. The synthesis will be associated with various characterization processes including SEM/TEM, zeta potential measurement, DLS etc. The optical properties of these hybrids will then be studied via UV-VIS and PL studies."
+  },
+  {
+    "title": "Techno-economic analysis of a commercial scale CCS network in Gujarat",
+    "description": "The commercial scale deployment of sub-surface storage depends on a cost-effective mechanism for transporting CO2 from flue gas emission sources to capture plants and further to sub-surface storage sites. This project will aim to identify different parameters which impact the cost of such an transport network for the state of Gujarat such as pipeline material, CO2 impurity, terrain conditions, pipeline-truck-ship based transport options. Finally, the parameters shall be combined in a techno-economic analysis framework to find the optimum combinations of the variables such that the cost of such and operation is minimised. Relevant skills required by the candidate: GIS, remote sensing, linear algebra with experience in coding, preferably Python."
+  },
+  {
+    "title": "Topics on p-adic geometry",
+    "description": "Arithmetic geometry studies solutions of polynomial equations using tools from number theory and algebraic geometry. A central theme is understanding how geometric objects defined over number fields behave when viewed modulo prime numbers and over \n𝑝\np-adic fields. This project aims to introduce the student to the basic ideas of arithmetic geometry and \n𝑝\np-adic geometry through concrete examples and foundational theory.\n\nThe project will begin with a review of algebraic varieties over fields, with emphasis on curves and elliptic curves, and their reduction modulo primes. We will then introduce p-adic numbers and explore how geometric objects can be studied over p-adic fields, highlighting the differences between real/complex and non-Archimedean geometry. Special attention will be given to concepts such as good and bad reduction, local–global principles, and the role of primes in arithmetic problems.\n\nIn the later part of the project, the student will be exposed to basic cohomological ideas, such as de Rham cohomology in simple cases, and their arithmetic significance. Depending on progress, the project may touch upon modern topics such as p-adic cohomology theories or the relationship between geometry and Galois representations at an introductory level.\n\nThe goal of this project is to develop mathematical maturity, provide a first exposure to a major research area in modern number theory, and prepare the student for future study in arithmetic geometry or related fields."
+  },
+  {
+    "title": "Topological Nanomaterials for Heterogenous Catalysis",
+    "description": "Heterogenous catalysis including water splitting, CO2 reduction have been established as one of the key drivers for the sustainable energy transition. The applicability of these technologies largely depends on the design of robust and active catalysts. In these catalytic processes, surface of the catalyst provides the primary interaction sites with the reactants. Therefore, topological quantum materials (TQMs) with robust, symmetry-protected surface states with high carrier mobility present a unique platform to explore and design efficient catalysts. In this project, students will explore different TQMs with varied morphology or dimension for energy relevant electro/photo-catalytic process."
+  },
+  {
+    "title": "Transport coefficients of hot QCD matter within momentum dependent relaxation time approximation",
+    "description": "This work will involve the derivation of hydrodynamics from transport theory within momentum dependent relaxation time approximation and determination of the various charge, momentum and thermal diffusion coefficients. As an input, we will also study various effective models to describe the equation of state of strong coupled QCD matter (from lattice and HTL approaches)."
+  },
+  {
+    "title": "Tuned mass damper for deep hole boring tool",
+    "description": "The term deep hole boring is usually attributed to cases when the hole depth is more than ten times the hole diameter. The operation uses a single point cutting insert/element mounted on a long boring bar, the workpiece rotates at a high enough speed to induce the relative motion between the workpiece and the tool. The feed/depth of cut are varied to achieve the required dimensional tolerances and surface finish, whereas the geometric tolerances are affected by the tool and workpiece alignment throughout the machining process.\n\nThe forces acting on the tool tip are essentially in all the three directions resulting in bending, axial and torsional excitation of the boring bar. The frequency of excitation is primarily governed by the angular velocity of the workpiece. However, due to the long length of the boring bar and the forces acting on the tool tip, there are perceivable vibrations of the boring bar due to its inherent material properties, geometry and the boundary conditions i.e., fixing at tool post. If these vibration amplitudes are within the dimensional and surface tolerances of the component being machined, one can proceed with the machining without any hassle. However, these vibrations are quite severe whenever the frequency of rotation of the workpiece and one of the natural frequencies of the boring bar are closely spaced. Such a scenario results in resonance and the machining quality is severely affected and the desired dimensional/surface tolerances and surface finish are no longer achievable. Further, resonance can also result in severe chatter [3], high impact loads on the boring bar and an ultimate catastrophic failure or permanent damage of the boring bar, tool and the tool post.\n\nThere have been several strategies that have been developed over the years to suppress resonant responses. One of the simplest being the introduction of damping forces. Another interesting design is based on Tuned Mass Damper (TMD)/Dynamic Vibration Absorber proposed by German engineer Herman Frahm in 1909 and later popularized by Prof. J. P. Den Hartog. Conceptually, the idea is to take the overall system out of resonance by adding a secondary system to the externally excited primary system. In this process, the amplitude of the primary system is reduced to zero at the resonant excitation frequency. This is made possible by considering the secondary system to have the same natural frequency as the resonant excitation frequency. This principle has been very efficiently incorporated in designing boring bars by incorporating internal oscillators and tuning them such that the boring bar has near zero vibrations and within the prescribed dimensional tolerance."
+  },
+  {
+    "title": "Understanding the Role of Ecosystem Services in Advancing Blue Economy and Blue Ecology in Coastal, Marine, and Wetland Landscapes",
+    "description": "This internship project aims to explore the interconnections between ecosystem services, blue ecology, and the blue economy, with a focus on coastal, marine, and wetland environments. The project will examine how ecosystem services contribute to sustainable development goals, support livelihoods, and enhance environmental resilience.\n\nThe intern will engage in activities such as:\n- Reviewing literature on ecosystem services in coastal, marine, and wetland ecosystems\n- Understanding the concepts of blue economy and blue ecology\n- Identifying key ecosystem services (provisioning, regulating, cultural, and supporting)\n- Examining linkages between ecosystem services and sustainable development\n- Exploring case studies from India and globally\n- Mapping or documenting ecosystem services and their socio-ecological relevance (where feasible)\n- Supporting development of knowledge materials, reports, or policy briefs\n\nThis project is interdisciplinary and suitable for students interested in environmental science, sustainability, ecology, geography, development studies, or related fields.\n\nThe internship will provide exposure to ecosystem service assessment, sustainability frameworks, and emerging approaches to integrating ecological conservation with sustainable economic development."
+  },
+  {
+    "title": "Unsteady RANS simulation of Jet-in-crossflow (JICF) DLR flame",
+    "description": "F21\n\nThis project focuses on performing Unsteady RANS simulation of the DLR Jet-in-Crossflow (JICF) flame configuration, a canonical case for studying flame stabilization and turbulence-chemistry interactions. The objective is to build CFD model and validate results with experimental data by comparing features such as jet trajectory, mixing, and flame structure."
+  },
+  {
+    "title": "V-FAB 1.0: A Multiscale Digital Twin of Semiconductor Processes in a Foundry",
+    "description": "As India is rapidly building its semiconductor ecosystem, we aspire to build tools to visualize how chips are made. We are looking for a team of young and dynamic brains who would like to leverage the 2-month summer internship at IIT Gandhinagar to build a \"Digital Twin\" of a semiconductor factory. This tool should allow any student who is interested to walk through a virtual cleanroom and see how changing process steps affects the device at an atomic level.\n\nWe are looking for interns for two specific tracks:\nTrack 1: Unity 3D & Virtualization You will build the 3D environment. This includes creating the cleanroom layout and equipment like furnaces and lithography tools. Your goal is to create a seamless experience where a user can zoom from a 300mm wafer down to the individual atoms of a semiconductor.\nRequired Skills: Unity 3D, C# programming, and 3D modeling.\n\nTrack 2: ML & Physics-Informed Modeling You will build the \"brain\" of the simulation. Instead of waiting hours for physics simulations, you will create Machine Learning surrogate models that provides the intended output parameters and atomic structures based on the user's input for different semiconductor processes. For generating synthetic data, you will be leveraging existing multi-scale modeling frameworks in our group.\nRequired Skills: Python, ML libraries (PyTorch or TensorFlow), and basic semiconductor physics."
+  },
+  {
+    "title": "Vibration characteristics of slinky",
+    "description": "Slinkies are interesting structures that exhibit high flexibility and large displacements without any permanent deformation. Due to their flexibility, they are seldom modeled using Euler-Bernoulli beam. We consider Kirchhoff rod to model the configuration and find the deformed configuration under gravity load. The frequency characteristics are explored over this static equilibrium configuration"
+  },
+  {
+    "title": "VR-Based Library Orientation Application",
+    "description": "Objective: Create a Virtual Reality (VR)-based library orientation application to familiarize users with library facilities, services, and resources\nDescription:\n•\tThe VR app will offer an immersive, interactive walkthrough of the library, guiding users through different sections, resources, and services\n•\tUsers can access it via VR headsets, desktop applications, or mobile devices\n•\tFeatures will include virtual librarian assistance, self-guided tours, and gamified learning modules\n•\tThe application will be updated regularly with new features and instructional content\nBenefits:\n•\tEngages new users with an interactive and enjoyable learning experience\n·         Providing easier access to information for remote users\n·         Improves awareness of the library layout and facilities, helping users navigate more easily"
+  },
+  {
+    "title": "Why do some genes jump?",
+    "description": "The project focuses on a novel gene duo, a protein-coding transposon-derived gene, human THAP9 and its antisense partner long non-coding RNA (lncRNA), THAP9-AS1. Human THAP9 protein  shares a similar domain architecture (THAP domain, oligomerisation domain, RNase-H catalytic domain) with the well-characterised Drosophila P-element transposase (DmTNP). Despite the similarity, DmTNP is an active transposase with TIRs and TSDs, but THAP9 is possibly domesticated as it lacks the TIRs and TSDs. Though molecularly domesticated, hTHAP9 retains the ability to carry out DNA excision and integration. However, the biochemical functionality of each domain or the full length protein has not been studied. Further, THAP9’s antisense partner, THAP9-AS1 is a non-coding RNA, implicated in diseases like cancer. Recent ribosome profiling has revealed multiple unannotated putative short ORFs within the non-coding THAP9-AS1 lncRNA, hinting towards it’s ability to code for small proteins < 100 amino acids (also termed as micropeptides). \n\nTo understand the functionality of the novel gene duo, in-depth biophysical and biochemical characterisation is required. Towards this, the project will be divided into multiple sections, which will include PCR-based molecular cloning, expression and purification of individual domains as well as full length human THAP9 and THAP9-AS1-encoded micropeptides. With the purified proteins and micropeptides, characterisation techniques, like ITC and EMSA, will be performed to analyse protein–DNA/RNA interactions. \n\nThe project looks for motivated candidates who are in the 3rd year of B.Tech/BS-MS dual degree or 1st year of MSc in Biotechnology or biology related disciplines. The candidate should have a theoretical background in molecular biology and protein biology, and preliminary experimental experience would help. \n**TIRs: Terminal Inverted Repeats; TSDs: Target Site Duplications; ITC: Isothermal Titration Calorimetry; EMSA: Electrophoretic Mobility Shift Assay"
+  }
+]
