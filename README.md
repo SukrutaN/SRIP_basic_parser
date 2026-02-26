@@ -44,5 +44,3 @@ A `data.json` file will be downloaded containing the extracted table data.
 - Skips rows that don't contain the expected columns (e.g. header rows)
 - `.trim()` is used to remove extra whitespace from extracted text
 ```
-
-Note: remove the backslashes before the closing triple backticks (` \``` `) — I had to add them to prevent formatting issues here.
